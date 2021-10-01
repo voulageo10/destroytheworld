@@ -1,0 +1,2 @@
+# destroytheworld
+app destroy
